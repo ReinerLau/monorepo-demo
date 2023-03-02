@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@packages/utils": "workspace:*",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "vue": "^3.2.47"
   }
 }
