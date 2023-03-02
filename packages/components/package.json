@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@packages/utils": "workspace:*",
     "lodash": "^4.17.21"
   }
 }
